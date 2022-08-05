@@ -88,9 +88,8 @@ footer {
 
   .item-box {
     width: 90%;
-    margin-bottom: 20px;
     background-color: #EEEEEE;
-    margin: 0 auto;
+    margin:20px auto;
   }
 
   .item-box:last-child {
